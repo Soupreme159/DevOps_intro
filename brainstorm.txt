@@ -1,0 +1,2 @@
+1. create a python virtual environment using 'python3 -m venv env' or 'virtualenv ~/.venv'
+2. create empty files:'Makefile', 'requirements.txt', 'main.py', 'dockerfile', 'mylib/__init__.py',

@@ -4,6 +4,7 @@ install:
 	pip install -r requirements.txt 
 format:
 	#formats code
+	black *.py mylib/*.py
 lint:
 	#lint commands like flake8 or pylint
 test:

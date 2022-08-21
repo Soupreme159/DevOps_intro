@@ -1,0 +1,8 @@
+wikipedia==1.4.0
+pytest==7.1.2
+pytest-cov==3.0.0
+pylint==2.14.5
+black==22.6.0
+fire==0.4.0
+
+#got version numbers using terminal command "pip freeze | less"

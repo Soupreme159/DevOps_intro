@@ -2,3 +2,5 @@
 2. create empty files:'Makefile', 'requirements.txt', 'main.py', 'dockerfile', 'mylib/__init__.py',
 3. Populate 'Makefile'
 4. Setup Continuous Integration like checking the code for issues such as lint error
+5. Create a commnannd line tool using python fire library ./cli-fire.py to test logic
+

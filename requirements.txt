@@ -4,5 +4,7 @@ pytest-cov==3.0.0
 pylint==2.14.5
 black==22.6.0
 fire==0.4.0
+fastapi==0.80.0
+uvicorn==0.18.3 
 
-#got version numbers using terminal command "pip freeze | less"
+#get version numbers using terminal command "pip freeze | less"
